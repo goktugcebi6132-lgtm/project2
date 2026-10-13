@@ -2,6 +2,7 @@
 using namespace std;
 
 int main() {
-    cout << "Hello, World!" << endl;
+    cout << "Beşiktaş" << endl;
+    cout << "İkinci commit" << endl;
     return 0;
 }
