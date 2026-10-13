@@ -3,8 +3,8 @@ using namespace std;
 
 int main() {
     cout << "Beşiktaş" << endl;
-    cout << "İkinci commit" << endl;
+    cout << "Üçüncü commit" << endl;
 
-    
+
     return 0;
 }
